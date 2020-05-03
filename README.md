@@ -28,8 +28,8 @@ Of course, i authorize to download, distribute, modify and do everything you wan
 
 Simply download, stay clear that i used the python 3.7.6, and do
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 and run
 
-python main.py 
+> python main.py 
