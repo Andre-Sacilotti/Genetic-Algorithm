@@ -5,7 +5,7 @@ This repository contains an visual thing about genetic algorithmns, applying the
 
 ### How This Works
 
-The game starts with n spaceships (Squares), and every spaceship has random genes, so genes like 0 means go forward, 1 means go backward, and so on for left, right and do nothing. The fitness metrics are the inverse of the euclidian distance between the center top of the spaceship and the center of the finish circle. After the time of 200 ticks, the system make a crossover between the best gene to all the other, followed by and mutation and the restart to another generation.
+The game starts with n spaceships (Squares), and every spaceship has random genes, so genes like 0 means go forward (Yvelocity - 1), 1 means go backward (Yvelocity + 1), and so on for left, right and do nothing. The fitness metrics are the inverse of the euclidian distance between the center top of the spaceship and the center of the finish circle. After the time of 200 ticks, the system make a crossover between the best gene to all the other, followed by and mutation and the restart to another generation.
 
 
 Here's gif of the beggining of the genetic algorithm:
