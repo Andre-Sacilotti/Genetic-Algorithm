@@ -272,7 +272,7 @@ def genetic():
         gen += 1
         naves = []
         child = crossover(Cromossomos)
-
+        child = mutate(child)
 
         if (child[0].fit > aux_fit):
             aux_fit = child[0].fit
