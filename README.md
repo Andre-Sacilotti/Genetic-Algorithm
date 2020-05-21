@@ -2,6 +2,8 @@
 
 This repository contains an visual thing about genetic algorithmns, applying the concept of crossover and mutation in an spaceship, to avoid the obstacles, and get to the finish circle
 
+Genetic algorithm are used for optmization, in this case the space has 200 instructions(Genes), and every instruction has 5 actions, it means that in the worst scenario of brute force search, we will have arround <img src="https://render.githubusercontent.com/render/math?math=6*10^{139}"> Possibilities, and using the genetic algorithm we achieved the best in less than 2000 generations
+
 
 ### How This Works
 
