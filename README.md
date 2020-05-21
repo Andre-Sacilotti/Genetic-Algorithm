@@ -1,6 +1,6 @@
 # Genetic-Algorithm
 
-This repository contains an visual thing about genetic algorithmns, applying the concept of crossover and mutation in an spaceship
+This repository contains an visual thing about genetic algorithmns, applying the concept of crossover and mutation in an spaceship, to avoid the obstacles, and get to the finish circle
 
 
 ### How This Works
